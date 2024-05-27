@@ -18,7 +18,7 @@ The **Mexican Mules** NFT collection celebrates the rich heritage and lively tra
 
 ## Features
 
-- **Unique Artworks**: Each NFT is a one-of-a-kind piece, hand-crafted by talented artists.
+- **Unique Artworks**: Each NFT is a one-of-a-kind piece, hand-crafted by talented artist, randomized by hashlips engine.
 - **Alephium Blockchain**: Utilizes Alephium’s advanced blockchain technology for secure and efficient transactions.
 - **Cultural Celebration**: A vibrant collection that reflects the diversity and beauty of Mexican culture.
 
