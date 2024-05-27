@@ -1,7 +1,5 @@
 # Mexican Mules NFT Collection
 
-![Mexican Mules](path-to-your-image.jpg)
-
 Welcome to the **Mexican Mules** NFT collection, a unique and vibrant series of digital artworks inspired by the spirit and culture of Mexico. Each NFT in this collection is minted on the Alephium blockchain, ensuring security, scalability, and efficiency.
 
 ## Table of Contents
